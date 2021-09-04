@@ -1,0 +1,23 @@
+a:visited {
+    color          : blue;
+    text-decoration: underline;
+}
+
+.navbar {
+    width : 100%;
+    height: 150px;
+    border: 1px solid grey;
+}
+
+#img1 {
+    margin-top : 10px;
+    margin-left: 10px;
+}
+
+#body {
+    font-size: 20px;
+}
+
+#main {
+    border: 1px solid grey;
+}
